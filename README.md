@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/VicenteSaldana/github-readme-stats)
-[![Top Langs](https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana)](https://github.com/VicenteSaldana/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/VicenteSaldana/github-readme-stats)
+[![Top Langs](https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact)](https://github.com/VicenteSaldana/github-readme-stats)
