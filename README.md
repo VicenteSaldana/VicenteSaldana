@@ -15,7 +15,4 @@
   <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact&card_width=320" />
 </a>
 <br/>
-<a href="https://github.com/VicenteSaldana/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VicenteSaldana&theme=dark&hide_border=true />
-</a>
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VicenteSaldana&theme=dark&hide_border=true)
