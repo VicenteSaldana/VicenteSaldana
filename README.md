@@ -2,9 +2,9 @@
 🎓 Computer Engineering student at Pontificia Universidad Católica de Chile, with a minor in Technological Innovation<br>
 📫 Contact me: vicente.saldana@uc.cl
 
-- 🌱 Currently learning: WebSockets, AI search algorithms, system integration and innovation processes.
+- 🌱 Currently learning: WebSockets, AI search algorithms, system integration, and innovation processes.
 - 💬 Ask me about: Python, C#, React, web development, or software architecture.
-- 🌍 Languages: Spanish (native), English (advanced)
+- 🌍 Languages: Spanish (Native), English (Advanced).
 - 📖 Interests: Innovation, machine learning, accessible user interfaces, and user experience (UX) design.
 
 ## 📊 GitHub Stats:
