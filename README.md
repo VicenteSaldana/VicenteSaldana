@@ -12,7 +12,7 @@
   <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/VicenteSaldana/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact&theme=radical&card_width=250" />
 </a>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicenteSaldana&theme=dark&hide_border=true" alt="Streak Stats" />
