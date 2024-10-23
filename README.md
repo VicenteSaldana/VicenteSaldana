@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true)](https://github.com/VicenteSaldana/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true)](https://github.com/VicenteSaldana/github-readme-stats)
