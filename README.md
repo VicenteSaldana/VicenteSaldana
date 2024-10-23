@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/VicenteSaldana/github-readme-stats)
 [![Top Langs](https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact)](https://github.com/VicenteSaldana/github-readme-stats)
+
+<a href="https://github.com/VicenteSaldana/github-readme-statss">
+  <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api?username=VicenteSaldana&show_icons=true&include_all_commits=true&theme=radical" />
+</a>
+<a href="https://github.com/VicenteSaldana/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-bay-theta.vercel.app/api/top-langs/?username=VicenteSaldana&layout=compact&card_width=320" />
+</a>
